@@ -1,2 +1,3 @@
 ## Authors :
 * Nathan Cuvelier
+* Jordan 
