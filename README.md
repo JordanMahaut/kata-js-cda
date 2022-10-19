@@ -1,3 +1,7 @@
+## Authors :
+* Nathan Cuvelier
+* Jordan 
+
 # Les variables
 
 - Pour créer une variable en **Javascript** il faut utilisé le mot-clé :
